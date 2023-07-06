@@ -1,0 +1,5 @@
+.idea
+.venv
+topic_modeling/sbert/*.bin
+topic_modelling/VnCoreNLP/models/ner/vi-pretrainedembeddings.xz
+topic_modelling/sbert/pytorch_model.bin
